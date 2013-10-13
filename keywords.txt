@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map RFID
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MFRC522 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+MFRC522 KEYWORD2
+Reset KEYWORD2
+Write KEYWORD2
+AntennaOn KEYWORD2
+AntennaOff KEYWORD2
+Read KEYWORD2
+SetBitMask KEYWORD2
+ClearBitMask KEYWORD2
+CalculateCRC KEYWORD2
+MFRC522ToCard KEYWORD2
+Anticoll KEYWORD2
+Halt KEYWORD2
+SelectTag KEYWORD2
+Request KEYWORD2
+WriteBlock KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
